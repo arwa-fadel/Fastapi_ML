@@ -78,7 +78,8 @@ You should see a JSON response like:
 
 *Tip: don't forget to activate your environments & keep the files in the same directory <3*
 
+![enter values](web_iris.png)
 
-
+![return predict](predict_iris.png)
 
 **done by: arwa fadel**
